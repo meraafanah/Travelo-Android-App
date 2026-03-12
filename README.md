@@ -37,4 +37,4 @@ This project was a result of successful team collaboration. While we worked toge
 ## 🚀 Getting Started
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/[YourUserName]/Travelo-Android-App.git
+   git clone [https://github.com/[YourUserName]/Travelo-Android-App.git](https://github.com/meraafanah/meraafanah-Travelo-Android.git)
